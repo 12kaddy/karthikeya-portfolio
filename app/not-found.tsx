@@ -1,0 +1,1 @@
+import Link from "next/link";export default function NotFound(){return <main className="wrap" style={{padding:"100px 0"}}><h1>Page not found</h1><p>Return to the portfolio homepage.</p><Link href="/">Back home →</Link></main>}
